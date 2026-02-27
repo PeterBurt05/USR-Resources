@@ -1,1 +1,0 @@
-# USR-Resources

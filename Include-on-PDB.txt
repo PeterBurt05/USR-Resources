@@ -1,0 +1,8 @@
+TO INCLUDE ON PDB:
+- Fuse Holder -> HE sensor -> anderson connector (-> Linix Motor)
+- Fuse Holder -> anderson connector (-> Linix Motor)
+- Fuse Holder -> HE sensor -> anderson connector (-> Polulu -> actuator)
+- Fuse Holder -> anderson connector (-> Polulu -> actuator)
+- Fuse Holder -> anderson connector (-> Polulu -> actuator)
+- Fuse Holder -> anderson connector (-> Vibration Motor)
+- Fuse Holder -> Switching Regulator -> anderson connector (-> LiDAR Module)
